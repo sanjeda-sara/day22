@@ -29,7 +29,7 @@ class Products
                 'image'         => 'h3.webp'
            ],
            2 =>[
-                'id'            => 2,
+                'id'            => 3,
                'category_id'    => 2,
                 'name'          => 'Sharee',
                 'price'         => 9990,
@@ -37,7 +37,7 @@ class Products
                 'image' => 'sharee2.jpg'
            ],
             3 =>[
-                'id'            => 2,
+                'id'            => 4,
                 'category_id'   => 2,
                 'name'          => 'Sharee',
                 'price'         => 9990,
@@ -45,7 +45,7 @@ class Products
                 'image'         => 'sharee1.jpg'
             ],
             4 =>[
-                'id'            => 3,
+                'id'            => 5,
                 'category_id'   => 3,
                 'name'          => 'Kids',
                 'price'         => 9990,
